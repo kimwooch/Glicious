@@ -1,16 +1,18 @@
-# glicious
+# Glicious
 
-A new Flutter application.
+Glicious is a Flutter application to quickly and easily check the Dining Menu in the Grinnell Dining Hall.
 
-## Getting Started
+## About
 
-This project is a starting point for a Flutter application.
+Glicious is a quick and easy way to check the Dining Menu in the Grinnell Dining Hall. You can check the menu for today, tomorrow, or any day in the next week as and when a new menu becomes available. Glicoius is fully supported on iOS and Android devices.
 
-A few resources to get you started if this is your first Flutter project:
+## Get Glicious
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Glicoius is available for download at the following locations:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* [iOS](https://apps.apple.com/us/app/id1528601452)
+* [Android](https://play.google.com/store/apps/details?id=com.appdevgrinnell.glicious)
+
+## Other Info
+
+The app will only allow you to select the dates on which a menu is available on the servers. These dates are updated (possibly everyday) to show you the most recent menus.
