@@ -26,7 +26,7 @@ This app is built using Flutter. Things that showcase my development skills incl
 
 ## Other Skills
 
-I was able to create this app's icon, poster, and store description and publish the application to both apple and play store platform. By advertising the platform through facebook, I was able gain 200+ attractions on the release date.
+I was able to create this app's icon, poster, and store description and publish the application to both apple and play store platform. By advertising the platform through Facebook, I was able gain 200+ attractions on the release date.
 
 ## Technology: 
 
