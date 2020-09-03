@@ -20,7 +20,7 @@ Glicious is available for download at the following locations:
 
 ## Technical Skill Showcase
 
-This app is built using Flutter. Things that showcase my development skills include fetching time and menus from JSON in the background, displaying them in horizontal and vertical ListViews respectively, and creating UI with Flutter Widgets(StatefulWidget, StatelessWidget, Row,Column, Expanded, Text, Icon, SizedBox, etc).
+This app is built using Flutter. Things that showcase my development skills include fetching time and menus from JSON in the background, displaying them in horizontal and vertical ListViews respectively, and creating UI with Flutter Widgets(StatefulWidget, StatelessWidget, Row, Column, Expanded, Text, Icon, SizedBox, etc).
 
 ## Other Skills
 
