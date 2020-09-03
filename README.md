@@ -20,6 +20,14 @@ Glicious is available for download at the following locations:
 * [iOS](https://apps.apple.com/us/app/id1528601452)
 * [Android](https://play.google.com/store/apps/details?id=com.appdevgrinnell.glicious)
 
-## Other Info
+## Technical Skill Showcase
 
-The app will only allow you to select the dates on which a menu is available on the servers. These dates are updated (possibly everyday) to show you the most recent menus.
+This app is built using Flutter. Things that showcase my development skills include fetching time and menus from JSON in the background, displaying them in horizontal and vertical ListViews respectively, and creating UI with Flutter Widgets(StatefulWidget, StatelessWidget, Row,Column, Expanded, Text, Icon, SizedBox, etc).
+
+## Other Skills
+
+I was able to create this app's icon, poster, and store description and publish the application to both apple and play store platform.  
+
+## Technology: 
+
+Flutter, Dart, Sketch, Android Stuido, Apple Store, Play Store
