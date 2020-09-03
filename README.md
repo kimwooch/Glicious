@@ -1,5 +1,3 @@
-![Glicious](https://user-images.githubusercontent.com/25372543/92076814-295e3900-edf6-11ea-8fb5-4c6bcac6cafb.png)
-![output-onlinepngtools (8)](https://user-images.githubusercontent.com/25372543/92077323-21eb5f80-edf7-11ea-8e4c-720bf45e1342.png)
 ![output-onlinepngtools (7)](https://user-images.githubusercontent.com/25372543/92077327-24e65000-edf7-11ea-81a3-d117a35bd22d.png)
 
 # Glicious
