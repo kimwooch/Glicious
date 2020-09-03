@@ -9,6 +9,11 @@ Glicious is a Flutter application to quickly and easily check the Dining Menu in
 
 Glicious is a quick and easy way to check the Dining Menu in the Grinnell Dining Hall. You can check the menu for today, tomorrow, or any day in the next week as and when a new menu becomes available. Glicious is fully supported on iOS and Android devices.
 
+![FinalAndroid1](https://user-images.githubusercontent.com/25372543/92078268-f1a4c080-edf8-11ea-9223-d07680c89e4d.png)
+![FinalAndroid2](https://user-images.githubusercontent.com/25372543/92078279-f49fb100-edf8-11ea-8582-0a12df7b93b8.png)
+![FinalAndroid3](https://user-images.githubusercontent.com/25372543/92078281-f5d0de00-edf8-11ea-829d-174d834f11d8.png)
+![FinalAndroid4](https://user-images.githubusercontent.com/25372543/92078284-f7020b00-edf8-11ea-84d0-cc250679e025.png)
+
 ## Get Glicious
 
 Glicious is available for download at the following locations:
